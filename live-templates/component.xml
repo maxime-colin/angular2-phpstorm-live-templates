@@ -1,0 +1,7 @@
+<template name="component" value="import {Component, View} from &quot;angular2/core&quot;;&#10;&#10;@Component({&#10;&#9;selector: '$selector$',&#10;})&#10;@View({&#10;&#9;template: `&#10;&#9;&#10;&#9;`,&#10;&#9;directives: []&#10;})&#10;export class $name$Component {&#10;&#9;$END$&#10;}" description="Angular2 Component" toReformat="false" toShortenFQNames="true">
+  <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+  <variable name="selector" expression="name" defaultValue="" alwaysStopAt="false" />
+  <context>
+    <option name="TypeScript" value="true" />
+  </context>
+</template>
