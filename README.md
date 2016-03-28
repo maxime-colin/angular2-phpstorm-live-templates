@@ -3,7 +3,7 @@
 
 ## Live templates
 
- - component : Create new component
+ - component : Create new component : [component.xml](https://raw.githubusercontent.com/maxime-colin/angular2-phpstorm-live-templates/master/live-templates/component.xml)
 ![ngmodule screencast](https://raw.githubusercontent.com/maxime-colin/angular2-phpstorm-live-templates/master/screencast/component.gif)
 
 
